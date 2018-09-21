@@ -1,0 +1,9 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Mageplaza_HelloWorld::helloworld2"
+             title="Hello World"
+             module="Mageplaza_HelloWorld"
+             sortOrder="400"
+             resource="Mageplaza_HelloWorld::helloworld"/>
+    </menu>
+</config>
